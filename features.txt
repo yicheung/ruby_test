@@ -1,0 +1,4 @@
+new pull time set to 5 minutes
+add Selinuium extensions for auto testing
+lockup down AWS with IAM Roles & Policies
+
