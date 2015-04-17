@@ -1,0 +1,1 @@
+# set Git Poll timing to 5 minutes now
