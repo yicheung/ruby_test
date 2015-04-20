@@ -1,0 +1,1 @@
+test AUto GIT PULL & BUILD
