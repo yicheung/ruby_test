@@ -1,0 +1,1 @@
+Uncheck Build on Git Push @ 9:37
